@@ -76,7 +76,9 @@ function Contact() {
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/in/sagar-gyawali-b326683b9/"
+                target="_blank"
+                rel="noreferrer"
                 className="rounded-xl border border-white/10 px-5 py-3 text-sm text-slate-300 hover:border-cyan-400 hover:text-cyan-400"
               >
                 LinkedIn
