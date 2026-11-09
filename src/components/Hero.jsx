@@ -52,7 +52,7 @@ function Hero() {
           {/* Social Links */}
           <div className="mt-10 flex gap-4">
             <a
-              href="#"
+              href="https://github.com/sagargyawali79-cmd"
               target="_blank"
               rel="noreferrer"
               className="rounded-xl border border-white/10 px-5 py-3 text-sm text-slate-300 transition hover:border-cyan-400 hover:text-cyan-400"

@@ -93,7 +93,9 @@ function Projects() {
                 </a>
 
                 <a
-                  href="#"
+                  href="https://github.com/sagargyawali79-cmd?tab=repositories"
+                  target="_blank"
+                  rel="noreferrer"
                   className="rounded-lg border border-slate-600 px-5 py-2.5 text-sm font-bold text-slate-300 transition hover:border-cyan-400 hover:text-cyan-400"
                 >
                   GitHub
